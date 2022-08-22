@@ -1,17 +1,15 @@
 <div class="row">
-  <div class="column"><img src="https://github.com/analiticafp/Conflicto-de-intereses/blob/2154b2dc3f0b3c539b43a51c9fb71b9422a16f78/imagenes/layout_set_logo.png" align="left" alt="Función Pública"></div>
-  <div class="column" align="center"><div><b>Documentación proyecto analítica V.1</b><br>Ultima actualización: Noviembre de 2021</div>
+  <div class="column"><img src="https://github.com/analiticafp/Caracterizacion gripos de valor/blob/2154b2dc3f0b3c539b43a51c9fb71b9422a16f78/imagenes/layout_set_logo.png" align="left" alt="Función Pública"></div>
+  <div class="column" align="center"><div><b>Documentación proyecto analítica V.1</b><br>Ultima actualización: Agosto de 2022</div>
 </div>
 
 <br>
-<h1 >Ley de cuotas</h1>
+<h1 >Caracterización grupos de valor</h1>
 
 <h2>Participantes</h2>
 <ul>
- <li type="circle">Diana Rozo, Teámitco,  drozo@funcionpublica.gov.co</li>
+ <li type="circle">Monica Martínez, Teámitco,  mmartinez@funcionpublica.gov.co</li>
  <li type="circle">Maritza Ibarra Duarte, Analista de datos,  mibarra@funcionpublica.gov.co</li>
- <li type="circle">Camilo Alejandro Tamayo Quintana, Analista de datos,  ctamayo@funcionpublica.gov.co</li>
- <li type="circle">Karol Wilfredo Camargo Vargas, Analista de negocio, kcamargo@funcionpublica.gov.co</li>
  <li type="circle">Miguel Sebastian Rincon Ortega, Analista de datos, mrincon@funcionpublica.gov.co</li>
 </ul>
 
