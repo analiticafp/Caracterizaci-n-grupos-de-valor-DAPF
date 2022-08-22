@@ -104,142 +104,45 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
  <h2>Presentación y análisis de resultados</h2>
    
 <h3>Preparación de datos</h3>
-  <p>Se realizó la integración en una base en Excel de la información asociada al indicador de ley de cuotas desde la vigencia 2004 hasta 2021, características de las entidades públicas presentes en SIGEP y vinculación en SIGEP por tipo de planta. Por otro lado, se eliminaron variables que bajo el criterio de los participantes del negocio no aportan a la consecución del proyecto. Es necesario realizar una descripción estadística de los datos que propende por el conocimiento acerca de los datos.</p> 
-<p>La base de las características de las entidades publicas tiene 6.403 registros asociados a entidades de orden nacional y territorial. Por otro lado, y para determinar si la entidad debe reportar la participación de la mujer en cargos directivos se tomaron datos de la vinculación de los servidores públicos del SIGEP según su tipo de cargo, en este caso si presenta o no cargos de libre nombramiento y remoción donde se tenía información de 670 de las 6.403 entidades.</p> 
-<p>Observe en el siguiente grafico las frecuencias de las variables que fueron tenidas en cuenta para el ejercicio predictivo.</p> 
+  <p> </p> 
 
- <div>   
-<img src="https://github.com/analiticafp/Ley-de-cuotas-2021/blob/f9981bb1f352bbad2eca1e64e05bab8550f49ba3/imagenes/conteo-frecuencia.png" align="center" alt="Función Pública">
-</div> 
-  
-<p>Vemos como en algunos casos según el valor de la variable la tendencia es que debe reportar tanto para el orden nacional y las cabezas de sector, además puede observarse según el tipo de institución, la clasificación orgánica y el nivel de institución valores dentro del dominio donde no se debe reportar.</p>
-<table align="center">
-  <tr>
-    <th>Variable</th>
-    <th>Proporción de campos con valor (%)</th>
-  </tr>
-  <tr>
-    <td>COD_INSTITUCION</td>
-    <td>100</td>
-  </tr> 
-    <tr>
-    <td>NOMBRE</td>
-    <td>100</td>
-  </tr> 
-       <tr>
-    <td>CATEGORIAMUNI</td>
-    <td>100</td>
-  </tr> 
-           <tr>
-    <td>CLASIFICACION_ORGANICA</td>
-    <td>100</td>
-  </tr> 
-           <tr>
-    <td>NATURALEZA_JURIDICA</td>
-    <td>100</td>
-  </tr> 
-           <tr>
-    <td>ORDEN</td>
-    <td>100</td>
-  </tr> 
-           <tr>
-    <td>ES_CABEZA_S</td>
-    <td>98.95</td>
-  </tr> 
-           <tr>
-    <td>NIVEL_INSTITUCION</td>
-    <td>100</td>
-  </tr> 
-           <tr>
-    <td>TIPO_INSTITUCION</td>
-    <td>100</td>
-  </tr> 
-   </table>
    
- <p>Ahora bien, para la limpieza de datos se evalúa la existencia de campos nulos o vacíos donde dichas variables fueron objeto de un proceso de imputación.</p>  
- <p>En el ejercicio fue necesario crear variables a partir de los dominios encontrados en algunas variables, variables de 1 y 0, esto ocurre para toda la base. De la misma forma se evalúan correlaciones con la variable “debe reportar” y las variables con una correlación baja menor a 0.1 se eliminan del modelo, ya para terminar se realizó balanceo de datos.</p>
-  
-  <div>   
-<img src="https://github.com/analiticafp/Ley-de-cuotas-2021/blob/f9981bb1f352bbad2eca1e64e05bab8550f49ba3/imagenes/corr.png" align="center" alt="Función Pública">
-</div> 
-  
  <h3>División de datos</h3>
   
-  <p>Se realizó una división simple de 70% entrenamiento y 30% de prueba con los parámetros mostrados a continuación.</p>
   
-```python
-  from sklearn.model_selection import train_test_split
-  X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.3, random_state=1, stratify=Y)
-  ```
+
  <h3>Aprendizaje</h3>
-  <p>La predicción es un problema de clasificación entre si debe reportar y no debe reportar de las entidades que aun desconocemos parte de su información, para este ejercicio se toman dos algoritmos de aprendizaje supervisado “KNN Classifiers” el cual aplica un método sencillo que utiliza las instancias de datos más similares para hacer la clasificación y “Random Forest” compuesto por arboles de decisión los cuales aportan a la clasificación final del modelo.</p>
-  <p>Los modelos finales y su configuración se exponen a continuación, tenga en cuenta que dichos modelos fueron evaluados para su mejor configuración en cuanto a precisión. </p>
   
-```python
-  from sklearn.ensemble import RandomForestClassifier
-  SEED = 42
-  random_forest_model_0 = RandomForestClassifier(random_state = SEED, n_estimators=7)
-  random_forest_model_0.fit(X_train, y_train.values.ravel())
-  
-  from sklearn.neighbors import KNeighborsClassifier
-  knn_model_feat = KNeighborsClassifier(n_neighbors=5, n_jobs=-1)
-  knn_model_feat.fit(X_train, y_train.values.ravel())
-  ```
  <h3>Evaluación</h3>
- <p>La matriz de confusión nos muestra en este caso el resultado de la validación con el conjunto de prueba, el modelo “KNN” con una precisión del 85% y en su clasificación en general presenta mejores clasificaciones que el modelo entrenado con “Random Forests”.</p>
- <div>   
-<img src="https://github.com/analiticafp/Ley-de-cuotas-2021/blob/17177b9d78645ece32859ea946b7d9cc6015449d/imagenes/rf-c.png" align="center" alt="Función Pública">
-</div> 
- <h3>Predicción futura</h3>
-  <p>Ahora bien se realiza la predicción utilizando el modelo con mejores resultados, se toma toda la base de entidades y se realiza su clasificación que se refleja en la columna “predicción” del conjunto de datos.</p>
- 
-```python
-  df['PREDICT'] = random_forest_model_0.predict(dftest)
-  #Salida en excel
-  df.to_excel('predicted.xlsx', sheet_name='example')
-  ``` 
-  
- <p>Si en nuestra observación planteamos los que deben reportar se acerca a 3.646 de 6.319 entidades donde su estado no es “inactivo”.</p>
-  
- <h3>Análisis resultado del indicador de ley de cuotas en vigencias posteriores - regresión lineal</h3>
-<p>Teniendo en cuenta el reporte de ley de cuotas desde 2004 hasta 2021, se toma el cálculo del porcentaje de participación femenina en niveles decisorios para construir una relación lineal simple. El resultado de la regresión lineal es una ecuación lineal que permite identificar como parámetro de mayor utilidad la pendiente y con ello el aumento porcentual promedio por año del indicador. En los puntos verdes se indica el aumento de la cuota femenina para los años 2022, 2023,2024 y 2025 si se hiciera uso de este modelo.  </p>  
-   <div>   
-<img src="https://github.com/analiticafp/Ley-de-cuotas-2021/blob/84d6c33cd69acc817f0c893c44b58a806da795f3/imagenes/linear-r.png" align="center" alt="Función Pública">
-</div> 
-  
-<p>Para la predicción se utiliza la función lineal encontrada con los datos históricos, lo que refleja una aproximación al indicador para vigencias posteriores.  </p>
 
 <h2>Conclusiones</h2>
-<p> Una vez analizadas las bases de datos de los reportes de ley de coutas realizadas por las entidades en el aplicativo diseñado para tal fin, para el periodo de 2016 a 2020, se puede concluir que:</p><br> 
+<p> Una vez analizadas las bases de datos de los reportes generados por los canales de atención, durante el 2021 y de enero a julio de 2022, se puede concluir que:</p><br> 
    
-<li type="circle">El resultado de las entidades que no deben repotar en su mayoría corresponden a Asambleas departamentales, consejos municipales, personerias municipales de municipios de 5 y 6 categoria </li>
+<li type="circle"> </li>
  <br>  
 
- <div>   
-<img src="https://github.com/analiticafp/Ley-de-cuotas-2021/blob/4a6be97316f6334d45d8bd1766c162e55359a031/imagenes/Entidades-que-no-deben-reportar.jpg" align="center" alt="Función Pública">
-</div> 
   
-<li type="circle">El modelo entrenado con el algoritmo “KNN” obtuvo una precisión del 85% igual al “Random Forests” lo que permitió clasificar 6.319 entidades encontrando un universo de posibles candidatos a reporte de ley de cuotas donde 3.646 entidades deben reportar. </li><br>
+<li type="circle"> </li><br>
   
-<li type="circle">La regresión lineal simple presenta importantes limitaciones como herramienta predictiva, sin embargo para el caso de estudio muestra un escenario de aumento constante del indicador de participación femenina en cargos de niveles decisorios, en donde aún así se mantendría por debajo del 50% en los próximos 3 años.</li><br>
+<li type="circle"> </li><br>
 
 </ul>
  <h2>Recomendaciones</h2>
  <p>Desde la Oficina Asesora de Planeación y el equipo de trabajo que desarrollo este ejercicio se sugiere lo siguiente:</p>
   
-<li type="circle">Fortalecer campañas de sensibilización con las entidades públicas de orden nacional y territorial para que realicen la actualización de los servidores públicos vinculados</li><br> 
+<li type="circle"> </li><br> 
   
-<li type="circle">Se sugiere que la base de servidores vinculados del SIGEP se tenga en como la fuente primaria para la generación del indicador, dado que de acuerdo con el análisis realizado representa el 91% del universo de entidades que deberían reportar</li><br> 
+<li type="circle"> </li><br> 
 
   
-<li type="circle">Se sugiere tener o mantener la misma estructura de los informes y de garantizar que las entidades o el universo aplicable a ley de cuotas tengan reportes frecuentes vigencia tras vigencia.</li><br> 
+<li type="circle"> </li><br> 
   
-<li type="circle">Se sugiere realizar validación de 173 entidades de orden territorial con categoría municipal 5 y 6 que no han realizado reporte en años anteriores y tampoco se encuentran en el SIGEP y el modelo predice que para años siguientes deberían reportar.</li><br> 
+<li type="circle"> </li><br> 
 
  
      
 <h2>Bibliografía</h2>  
 <ul>
-<li type="circle">[Sebastian Raschka, Vahid Mirjalili] <i>Python Machine Learning</i>. Marcombo, 2019.</li>
-<li type="circle">[Dirección de Empleo Público] <i>Informes de Ley de Cuotas</i>. Función Pública, 2020.</li>
+<li type="circle"> </li>
+<li type="circle"> </li>
 </ul>  
