@@ -8,7 +8,7 @@
 
 <h2>Participantes</h2>
 <ul>
- <li type="circle">Monica Martínez, Teámitco,  mmartinez@funcionpublica.gov.co</li>
+ <li type="circle">Monica Martínez, Temático,  mmartinez@funcionpublica.gov.co</li>
  <li type="circle">Maritza Ibarra Duarte, Analista de datos,  mibarra@funcionpublica.gov.co</li>
  <li type="circle">Miguel Sebastian Rincon Ortega, Analista de datos, mrincon@funcionpublica.gov.co</li>
 </ul>
