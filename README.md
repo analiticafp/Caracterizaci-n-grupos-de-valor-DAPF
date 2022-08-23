@@ -106,7 +106,39 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
  <h2>Presentación y análisis de resultados</h2>
    
 <h3>Preparación de datos</h3>
-  <p> </p> 
+  <p>Fuentes de datos:
+    
+1.	Acción integral (Base de atenciones DDO nación y territorio)
+2.	Presencial y telefónico - CRM
+3.	Chat (Solicitud de nuevo reporte al grupo de servicio al ciudadano)
+4.	Orfeo (solicitud de nuevo reporte a OTIC)
+5.	Cursos EVA (Nuevo reporte solicitado a OTIC)
+
+Una vez validadas las variables requeridas para la caracterización con las diferentes dependencias responsables, se procede a creación de código en Python para consolidación de todas las bases de datos, donde se tomaron las columnas consideradas relevantes para la caracterización y se estructuro un nuevo archivo con las siguientes variables:</p>
+    
+  
+</p>Una vez consolidada la base de datos se procede a homologar temáticas, departamentos y grupos de interés este último para aquellos registros que lo tenían identificado.
+
+Tablas homologaciones
+
+Para los demás registros de acuerdo, con las validaciones realizadas, con los temas y él canal de atención se crearon unas condicionales que nos permitieron clasificar e identificar las atenciones por grupo de valor.
+
+Tabla grupos de valor
+
+
+Posteriormente, para el grupo de valor de entidades se realizó el cruce con los datos de descripción de las entidades orden, sector, clasificación orgánica y naturaleza jurídica variables requeridas para la caracterización de este grupo:
+
+Tabla Clasificación
+
+Por otro lado, para los servidores públicos se realizó cruce por número de cédula para las atenciones que incluían este dato con la base de servidores públicos vinculados y así poder tener un nivel de detalle para la caracterización de este grupo de valor encontrando lo siguiente:
+
+Tabla de resultados
+
+Finalmente se procede a caracterizar la información resultante y se obtienen los siguientes cuadros de salida para la caracterización de usuarios y grupos de valor de la entidad
+
+
+Gráficos
+
 
    
  <h3>División de datos</h3>
