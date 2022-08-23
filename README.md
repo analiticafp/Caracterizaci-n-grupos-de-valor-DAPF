@@ -162,27 +162,27 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
    </table>
     
   
-</p>Una vez consolidada la base de datos se procede a homologar temáticas, departamentos y grupos de interés este último para aquellos registros que lo tenían identificado.
+</p>Una vez consolidada la base de datos se procede a homologar temáticas, departamentos y grupos de interés este último para aquellos registros que lo tenían identificado.</li><br>
 
 Tablas homologaciones
 
-<p>Para los demás registros de acuerdo, con las validaciones realizadas, con los temas y él canal de atención se crearon unas condicionales que nos permitieron clasificar e identificar las atenciones por grupo de valor.<p>
+<p>Para los demás registros de acuerdo, con las validaciones realizadas, con los temas y él canal de atención se crearon unas condicionales que nos permitieron clasificar e identificar las atenciones por grupo de valor.</li><br>
 
-<h3>Tabla grupos de valor<h3>
-
-
-<p>Posteriormente, para el grupo de valor de entidades se realizó el cruce con los datos de descripción de las entidades orden, sector, clasificación orgánica y naturaleza jurídica variables requeridas para la caracterización de este grupo:<p>
-
-<h3>Tabla Clasificación<h3>
-
-<p>Por otro lado, para los servidores públicos se realizó cruce por número de cédula para las atenciones que incluían este dato con la base de servidores públicos vinculados y así poder tener un nivel de detalle para la caracterización de este grupo de valor encontrando lo siguiente:<p>
-
-<h3>Tabla de resultados<h3>
-
-<p>Finalmente se procede a caracterizar la información resultante y se obtienen los siguientes cuadros de salida para la caracterización de usuarios y grupos de valor de la entidad<p>
+<b>Tabla grupos de valor</b>
 
 
-<h3>Gráficos<h3>
+<p>Posteriormente, para el grupo de valor de entidades se realizó el cruce con los datos de descripción de las entidades orden, sector, clasificación orgánica y naturaleza jurídica variables requeridas para la caracterización de este grupo:</li><br>
+
+<b>Tabla Clasificación</b>
+
+<p>Por otro lado, para los servidores públicos se realizó cruce por número de cédula para las atenciones que incluían este dato con la base de servidores públicos vinculados y así poder tener un nivel de detalle para la caracterización de este grupo de valor encontrando lo siguiente:</li><br>
+
+<b>Tabla de resultados</b>
+
+<p>Finalmente se procede a caracterizar la información resultante y se obtienen los siguientes cuadros de salida para la caracterización de usuarios y grupos de valor de la entidad</li><br>
+
+
+<b>Gráficos</b>
 
    
 <h2>Conclusiones</h2>
