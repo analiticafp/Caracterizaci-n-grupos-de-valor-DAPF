@@ -162,7 +162,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
    </table>
     
   
-</p>Una vez consolidada la base de datos se procede a homologar temáticas, departamentos y grupos de interés este último para aquellos registros que lo tenían identificado.</li><br>
+</p>Con la base de datos consolidada se procede a homologar temáticas, departamentos y grupos de interés este último para aquellos registros que lo tenían identificado.</li><br>
 
 Tablas homologaciones
 
@@ -200,16 +200,21 @@ Tablas homologaciones
  <h2>Recomendaciones</h2>
  <p>Desde la Oficina Asesora de Planeación y el equipo de trabajo que desarrollo este ejercicio se sugiere lo siguiente:</p>
   
-<li type="circle"> </li><br> 
+<li type="circle">Tipificar de manera obligatoria para todos los canales de atención el número de cédula, la pertenencia a un grupo de interés, grupo étnico y discapacidad.</li><br> 
   
-<li type="circle"> </li><br> 
+<li type="circle">Estandarizar los grupos de interés, pertenencia étnica y discapacidad en los canales de atención.</li><br> 
+  
+<li type="circle">Estandarizar y alinear al portafolio de servicios los temas en los canales</li><br> 
+  
+<li type="circle">Establecer hasta que nivel se puede hacer desagregación de temas y subtemas, así como su estandarización en todos los canales.</li><br> 
 
-  
-<li type="circle"> </li><br> 
-  
-<li type="circle"> </li><br> 
+<li type="circle">Interoperar el módulo de entidades con los canales, para que solo sea seleccionar la entidad y no permitir que se pueda escribir cualquier dato.</li><br>
 
- 
+<li type="circle">Crear una columna de tipo de identificación que facilite la validación del grupo de valor (Ejm: sigep; Cédula, nit, etc), lo anterior debido a que en la columna de nombre del usuario para algunos canales se encuentran nombres de entidades, números de cédula, nombre de personas, correos, etc, lo que dificulta la identificación del tipo de usuario.</li><br>
+
+<li type="circle">Potencializar el CRM como herramienta para consolidar y analizar todas las interacciones con los grupos de valor y que permita contar una trazabilidad de las atenciones históricas.</li><br>
+
+<li type="circle">Crear reportes que permitan hacer seguimiento y monitoreo a todas la interacciones, con el fin de identificar los grupos de valor y mejorar nuestra oferta institucional enfocada a la satisfacción de necesidades de dichos grupos.</li><br>
      
 <h2>Bibliografía</h2>  
 <ul>
