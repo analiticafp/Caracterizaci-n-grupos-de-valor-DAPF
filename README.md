@@ -81,11 +81,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
  <h2>Metodología y Alcance</h2>
    <p><b>Metodología:</b>  La metodología comprende seis fases, tal como se muestra en la imagen. Para este proyecto se aplicaron la fase uno que comprende el entendimiento del negocio, donde se plantearon los objetivos y requisitos que serán el insumo para el planteamiento del problema y la fase dos que comprende la comprensión de los datos, donde se realizó un análisis exploratorio de los mismos, posteriormente se procedió a la entrega de resultados e informe final.</li><br>
    
-   
- 
-      <a href="https://github.com/analiticafp/Caracterizaci-n-grupos-de-valor-DAPF/blob/964a6cf3fcc14e2ca2a216f32ed21facaabd511b/2022-08-23_Crisp_dm.png"
-         width=150" height="70">
-      </a>
+<img src="2022-08-23_Crisp_dm.png" alt="Italian Trulli">   
    
 <b>Alcance:</b>  Para este ejercicio se aplicarán técnicas de mineria de datos a la información de las bases de datos de los reportes de: Orfeo, crm, cursos eva, chat del año 2021 y de enero a julio de 2022.</p>
 
