@@ -116,6 +116,50 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 5.	Cursos EVA (Nuevo reporte solicitado a OTIC)
 
 Una vez validadas las variables requeridas para la caracterización con las diferentes dependencias responsables, se procede a creación de código en Python para consolidación de todas las bases de datos, donde se tomaron las columnas consideradas relevantes para la caracterización y se estructuro un nuevo archivo con las siguientes variables:</p>
+<table align="center">
+  <tr>
+   <td>CANAL</td>
+    <td>MUNICIPIO</td>
+  </tr> 
+    <tr>
+    <td>DEPENDENCIA</td>
+    <td>TIPO_IDENTIFICACION_USUARIO</td>
+  </tr> 
+       <tr>
+    <td>ID_ATENCION</td>
+    <td>IDENTIFICACION_USUARIO</td>
+  </tr> 
+           <tr>
+    <td>FECHA_ATENCION</td>
+    <td>NOMBRE_USUARIO</td>
+  </tr> 
+           <tr>
+    <td>ASUNTO</td>
+    <td>CORREO_ELECTRONICO</td>
+  </tr> 
+           <tr>
+    <td>TEMA</td>
+    <td>DISCAPACIDAD</td>
+  </tr> 
+           <tr>
+    <td>SUBTEMA</td>
+    <td>ETNICO</td>
+  </tr> 
+           <tr>
+    <td>DESCRIPCION</td>
+    <td>OTRO_GRUPO_INTERES</td>
+  </tr> 
+           <tr>
+    <td>COD_DEPARTAMENTO</td>
+    <td>ENTIDAD_ASOCIADO_CODSIGEP</td>
+  </tr> 
+   <td>DEPARTAMENTO</td>
+    <td>ENTIDAD_ASOCIADO_NOMBRE_SIGEP</td>
+  </tr> 
+    <tr>
+    <td>COD_MUNICIPIO</td>
+   </tr> 
+   </table>
     
   
 </p>Una vez consolidada la base de datos se procede a homologar temáticas, departamentos y grupos de interés este último para aquellos registros que lo tenían identificado.
