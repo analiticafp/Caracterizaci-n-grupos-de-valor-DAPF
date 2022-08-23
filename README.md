@@ -115,7 +115,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 4.	Orfeo (solicitud de nuevo reporte a OTIC)
 5.	Cursos EVA (Nuevo reporte solicitado a OTIC)
 
-Una vez validadas las variables requeridas para la caracterización con las diferentes dependencias responsables, se procede a creación de código en Python para consolidación de todas las bases de datos, donde se tomaron las columnas consideradas relevantes para la caracterización y se estructuro un nuevo archivo con las siguientes variables:</p>
+<p>Una vez validadas las variables requeridas para la caracterización con las diferentes dependencias responsables, se procede a creación de código en Python para consolidación de todas las bases de datos, donde se tomaron las columnas consideradas relevantes para la caracterización y se estructuro un nuevo archivo con las siguientes variables:</p>
 <table align="center">
   <tr>
    <td>CANAL</td>
@@ -166,20 +166,20 @@ Una vez validadas las variables requeridas para la caracterización con las dife
 
 Tablas homologaciones
 
-Para los demás registros de acuerdo, con las validaciones realizadas, con los temas y él canal de atención se crearon unas condicionales que nos permitieron clasificar e identificar las atenciones por grupo de valor.
+<p>Para los demás registros de acuerdo, con las validaciones realizadas, con los temas y él canal de atención se crearon unas condicionales que nos permitieron clasificar e identificar las atenciones por grupo de valor.<p>
 
 <h3>Tabla grupos de valor<h3>
 
 
-Posteriormente, para el grupo de valor de entidades se realizó el cruce con los datos de descripción de las entidades orden, sector, clasificación orgánica y naturaleza jurídica variables requeridas para la caracterización de este grupo:
+<p>Posteriormente, para el grupo de valor de entidades se realizó el cruce con los datos de descripción de las entidades orden, sector, clasificación orgánica y naturaleza jurídica variables requeridas para la caracterización de este grupo:<p>
 
 <h3>Tabla Clasificación<h3>
 
-Por otro lado, para los servidores públicos se realizó cruce por número de cédula para las atenciones que incluían este dato con la base de servidores públicos vinculados y así poder tener un nivel de detalle para la caracterización de este grupo de valor encontrando lo siguiente:
+<p>Por otro lado, para los servidores públicos se realizó cruce por número de cédula para las atenciones que incluían este dato con la base de servidores públicos vinculados y así poder tener un nivel de detalle para la caracterización de este grupo de valor encontrando lo siguiente:<p>
 
 <h3>Tabla de resultados<h3>
 
-Finalmente se procede a caracterizar la información resultante y se obtienen los siguientes cuadros de salida para la caracterización de usuarios y grupos de valor de la entidad
+<p>Finalmente se procede a caracterizar la información resultante y se obtienen los siguientes cuadros de salida para la caracterización de usuarios y grupos de valor de la entidad<p>
 
 
 <h3>Gráficos<h3>
