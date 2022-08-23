@@ -75,6 +75,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
  <ul>
  <li type="circle">Base de datos consolidada y estructurada con el total de interacciones de los grupos de valor del año 2021 y de enero a julio de 2022.</li>
  <li type="circle">Gráficos descriptivos que permiten caracterizar las interacciones y los grupos de valor de la entidad.</li>
+ <li type="circle">Algoritmo para consolidación y homologación de las diferentes bases de datos y plantilla con gráficos para futuras caracterizaciones.</li>
  <ul>
  </div>
    
