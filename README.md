@@ -168,32 +168,23 @@ Tablas homologaciones
 
 Para los demás registros de acuerdo, con las validaciones realizadas, con los temas y él canal de atención se crearon unas condicionales que nos permitieron clasificar e identificar las atenciones por grupo de valor.
 
-Tabla grupos de valor
+<h3>Tabla grupos de valor<h3>
 
 
 Posteriormente, para el grupo de valor de entidades se realizó el cruce con los datos de descripción de las entidades orden, sector, clasificación orgánica y naturaleza jurídica variables requeridas para la caracterización de este grupo:
 
-Tabla Clasificación
+<h3>Tabla Clasificación<h3>
 
 Por otro lado, para los servidores públicos se realizó cruce por número de cédula para las atenciones que incluían este dato con la base de servidores públicos vinculados y así poder tener un nivel de detalle para la caracterización de este grupo de valor encontrando lo siguiente:
 
-Tabla de resultados
+<h3>Tabla de resultados<h3>
 
 Finalmente se procede a caracterizar la información resultante y se obtienen los siguientes cuadros de salida para la caracterización de usuarios y grupos de valor de la entidad
 
 
-Gráficos
-
+<h3>Gráficos<h3>
 
    
- <h3>División de datos</h3>
-  
-  
-
- <h3>Aprendizaje</h3>
-  
- <h3>Evaluación</h3>
-
 <h2>Conclusiones</h2>
 <p> Una vez analizadas las bases de datos de los reportes generados por los canales de atención, durante el 2021 y de enero a julio de 2022, se puede concluir que:</p><br> 
    
