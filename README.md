@@ -79,7 +79,9 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
  </div>
    
  <h2>Metodología y Alcance</h2>
-   <p><b>Metodología:</b>  Para el desarrollo de este ejercicio se aplicará la metodologia Crisp DM, en la cual se inicia con con análisis y entendimiento del negocio y objetivos del ejercicios y, posteriormente, se realiza una revisión y entendimiento de los datos y preparación de los mismos, para luego pasar a la fase de modelamiento donde se aplican las técnicas estadísticas y algoritmos desarrollados para dar cumplimiento a los objetivos. Para este caso puntal, se aplicará analítica de texto y, finalmente, se realizará la evaluación del modelo y se procederá a la entrega de resultados e informe final.</li><br>
+   <p><b>Metodología:</b>  La metodología comprende seis fases, tal como se muestra en la imagen. Para este proyecto se aplicaron la fase uno que comprende el entendimiento del negocio, donde se plantearon los objetivos y requisitos que serán el insumo para el planteamiento del problema y la fase dos que comprende la comprensión de los datos, donde se realizó un análisis exploratorio de los mismos, posteriormente se procedió a la entrega de resultados e informe final.</li><br>
+   
+   
    
 <b>Alcance:</b>  Para este ejercicio se aplicarán técnicas de mineria de datos a la información de las bases de datos de los reportes de: Orfeo, crm, cursos eva, chat del año 2021 y de enero a julio de 2022.</p>
 
