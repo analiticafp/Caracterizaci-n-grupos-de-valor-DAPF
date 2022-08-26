@@ -61,8 +61,10 @@ Identificar las características, intereses y necesidades de los usuarios de los
 <h2>Riesgos y contingencias</h2>
    <p>  
     <ul>
- <li type="circle">Información Incompleta. </li>
+<li type="circle">Información Incompleta. </li>
 <li type="circle">Información con estructuras y campos diferentes en cada canal de atención.</li>
+<li type="circle">Errores de diligenciamiento.</li>
+<li type="circle">Campos no paremetrizados en los canales.</li>
     <ul>  
    </p>
 </div>
