@@ -62,6 +62,7 @@ Identificar las características, intereses y necesidades de los usuarios de los
    <p>  
     <ul>
 <li type="circle">Información Incompleta. </li>
+<li type="circle">Demoras en la entrega de la información.</li>
 <li type="circle">Información con estructuras y campos diferentes en cada canal de atención.</li>
 <li type="circle">Errores de diligenciamiento.</li>
 <li type="circle">Campos no paremetrizados en los canales.</li>
@@ -195,13 +196,15 @@ alt="Función Pública"></li><br>
 <h2>Conclusiones</h2>
 <p> Una vez analizadas las bases de datos de los reportes generados por los canales de atención, durante el 2021 y de enero a julio de 2022, se puede concluir que:</p><br> 
    
-<li type="circle"> </li>
+<li type="circle">Bogotá cuenta con el porcentaje de interacciones más altos con nuestra entidad </li>
  <br>  
+ 
+<li type="circle">El Canal de atención que más registra interacciones es el de cursos eva donde la participación más alta es de curso de integridad, seguido del canal escrito </li><br>
+  
+<li type="circle">El mayor porcetanje de interacciones la realizan servidores públicos o contratistas</li><br>
 
-  
-<li type="circle"> </li><br>
-  
-<li type="circle"> </li><br>
+<li type="circle">El árbol de temas es muy amplio y no facilita la asociación con el portafolio de servicios de la entidad </li><br>
+
 
 </ul>
  <h2>Recomendaciones</h2>
