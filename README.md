@@ -167,7 +167,7 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
 </p>Con la base de datos consolidada se procede a homologar temáticas, departamentos y grupos de interés este último para aquellos registros que no lo tenían identificado.</li><br>
 
 <div>   
-<img src="https://github.com/analiticafp/Ley-de-cuotas-2021/blob/f9981bb1f352bbad2eca1e64e05bab8550f49ba3/imagenes/conteo-frecuencia.png" align="center" alt="Función Pública">
+<img src="https://github.com/analiticafp/Caracterizaci-n-grupos-de-valor-DAPF/blob/main/Grupos%20de%20valor.jpg" align="center" alt="Función Pública">
 
 <p>Para los demás registros de acuerdo, con las validaciones realizadas, con los temas y él canal de atención se crearon unas condicionales que nos permitieron clasificar e identificar las atenciones por grupo de valor.</li><br>
 
