@@ -32,20 +32,17 @@
     <th>Marco contextual</th>
   </tr>
   <tr>
-<p>Teniendo en cuenta la relevancia de la igualdad de derechos, oportunidades y responsabilidades entre hombre y mujeres, el gobierno nacional expidió la siguiente normatividad relacionada con la igual de género:</p> <br>
-  
-<li type="circle">Ley 581 de 2000 Por la cual se reglamenta la adecuada y efectiva participación de la mujer en los niveles decisorios de las diferentes ramas y órganos del   poder público, de conformidad con los artículos 13, 40 y 43 de la Constitución Nacional.</li><br>
-    
-<li type="circle">Decreto 1083 de 2015, el cual establece reglas para garantizar la equidad y la igualdad de oportunidades de las mujeres en la provisión de los empleos de nivel directivo en la Rama Ejecutiva del orden nacional y territorial.</li><br>  
-  
-<li type="circle">CONPES 3918 de 2018 el cual define lineamientos para la efectiva implementación de los Objetivos de Desarrollo Sostenible (ODS) en Colombia y define una meta a través del indicador relacionado con el Máximo Nivel Decisorio (MND) y Otros Niveles Decisorios (OND) a través del indicador denominado participación de la mujer en los cargos directivos.</li><br>
+<p>Función Pública es una entidad pública del orden nacional del nivel central, junto con la Escuela superior de administración pública -ESAP- compone el sector de función pública. A partir del decreto legislativo 2169 de 1992 recoge nuevas funciones entre las cuales se encuentran el manejo del empleo público, la capacitación de los servidores, la creación y las reformas a las plantas de personal de las entidades estatales. En la última década el Departamento asume el liderazgo del sector y se agregan nuevas funciones asociadas al direccionamiento de las políticas de relacionamiento con la ciudadanía, como la política de integridad, racionalización de tramites, participación ciudadana, servicio al ciudadano, además de la política de gestión del conocimiento y la innovación en el sector público<p>
 
-A partir de lo anterior y con el fin de dar cumplimiento a la normatividad anteriormente mencionada, Función Pública invita anualmente a las entidades publicas mediante circular externa para que suministren la información relacionada con la participación femenina en cargos de máximo nivel decisorio y otros niveles decisorios, mediante el diligenciamiento del aplicativo virtual desarrollarlo para tal fin. Una vez recepcionada la información se procede al cálculo del indicador, elaboración y publicación del informe correspondiente.</td>
+En el desarrollo de sus funciones el Departamento ha construido una planeación estratégica donde se establece que la misión de la entidad es “Fortalecer la gestión de las Entidades Públicas Nacionales y Territoriales, mejorar el desempeño de los servidores públicos al servicio del Estado, contribuir al cumplimiento de los compromisos del gobierno con el ciudadano y aumentar la confianza en la administración pública y en sus servidores.” Para dar cumplimiento a dicha misión la entidad formuló tres (3) objetivos estratégicos: enaltecer al servidor público y su labor, consolidar una gestión pública moderna, eficiente, transparente, focalizada y participativa al servicio de los ciudadanos y consolidar a Función Pública como un Departamento eficiente, técnico e innovador.<p>
+
+Desde los objetivos misionales se identifican (3) grupos de valor asociados al despliegue de los productos y servicios de la entidad, ellos son: los servidores públicos, las entidades públicas y la ciudadanía. El objetivo de este documento es presentar el proceso de caracterización de usuarios asociados a esos grupos de valor, para actualizar el portafolio de bienes y servicios de la entidad y mejorar el diseño de acciones de diálogo en el marco del proceso de rendición de cuentas<p>
+ </td>
   
 <div>
 <h2>Objetivos</h2>
  <p><b>Obejtivos del Negocio</b><br>
-Identificar los perfiles de los usuarios y grupos de valor y como interactuan estos con la entidad.<br>
+Identificar las características, intereses y necesidades de los usuarios de los servicios y productos del Departamento Administrativo de la Función Pública para actualizar el portafolio de bienes y servicios de la entidad y mejorar el diseño de acciones de diálogo en el marco del proceso de rendición de cuentas.<br>
 
 <b>Objetivo de la Mineria de datos:</b><br>
  <ul>
