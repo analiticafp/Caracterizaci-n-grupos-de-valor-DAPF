@@ -164,28 +164,30 @@ Como beneficios se pueden mencionar que el desarrollo de estos ejercicios son un
    </table>
     
   
-</p>Con la base de datos consolidada se procede a homologar temáticas, departamentos y grupos de interés este último para aquellos registros que no lo tenían identificado.</li><br>
+</p>Con la base de datos consolidada se procede a homologar temáticas, departamentos y pertenencia étnica.</li><br>
 
 <div>   
-<img src="https://github.com/analiticafp/Caracterizaci-n-grupos-de-valor-DAPF/blob/main/Grupos%20de%20valor.jpg" align="center" alt="Función Pública">
+<img src="https://github.com/analiticafp/Caracterizaci-n-grupos-de-valor-DAPF/blob/main/Temas.png" align="center" 
+alt="Función Pública"></li><br>
 
-<p>Para los demás registros de acuerdo, con las validaciones realizadas, con los temas y él canal de atención se crearon unas condicionales que nos permitieron clasificar e identificar las atenciones por grupo de valor.</li><br>
 
-<b>Tabla grupos de valor</b>
+<p>Para la identificación de grupos de valor se crearon condicionales que nos permitieron clasificar e identificar las atenciones por grupo de valor teniendo en cuenta el canal de atención y la tematica.</li><br>
 
+<div>   
+<img src="https://github.com/analiticafp/Caracterizaci-n-grupos-de-valor-DAPF/blob/main/Grupos%20de%20valor.jpg" align="center" alt="Función Pública"></li><br>
 
 <p>Posteriormente, para el grupo de valor de entidades se realizó el cruce con los datos de descripción de las entidades orden, sector, clasificación orgánica y naturaleza jurídica variables requeridas para la caracterización de este grupo:</li><br>
 
-<b>Tabla Clasificación</b>
-
-<p>Por otro lado, para los servidores públicos se realizó cruce por número de cédula para las atenciones que incluían este dato con la base de servidores públicos vinculados y así poder tener un nivel de detalle para la caracterización de este grupo de valor encontrando lo siguiente:</li><br>
-
-<b>Tabla de resultados</b>
+<p>Por otro lado, para los servidores públicos se realizó cruce por número de cédula para las atenciones que incluían este dato con la base de servidores públicos vinculados y así poder tener un nivel de detalle para la caracterización de este grupo de valor encontrando que solo el 10% de los cédulas cruzaron razón por la cual no es viable caracterizar este grupo de ciudadanos porque la base de datos no es representativa:</li><br>
 
 <p>Finalmente se procede a caracterizar la información resultante y se obtienen los siguientes cuadros de salida para la caracterización de usuarios y grupos de valor de la entidad</li><br>
 
 
-<b>Gráficos</b>
+<b>Generales</b>
+
+<b>Atenciones</b>
+
+<b>Entidades</b>
 
    
 <h2>Conclusiones</h2>
