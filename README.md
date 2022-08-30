@@ -188,10 +188,12 @@ alt="Función Pública"></li><br>
 
 <b>Generales</b>
 
+<p> </p>
+
 <p align="center"> <img src="imaganes/2022-08-30_Canales.jpg" align="center" alt="Canales de atención" /> </p>
 <p align="center"> <img src="imaganes/2022-08-30_Mapa.jpg" align="center" alt="Canales de atención" /> </p>
-<p align="center"> <img src="imaganes/2022-08-30_Inclusion.jpg" align="center" alt="Canales de atención"  /> </p>
-<p align="center"> <img src="imaganes/2022-08-30_Grupos_valor.jpg" align="center" alt="Canales de atención"  /> </p>
+<p align="center"> <img src="imaganes/2022-08-30_Inclusion.jpg" align="center" alt="Canales de atención" width="300"/> </p>
+<p align="center"> <img src="imaganes/2022-08-30_Grupos_valor.jpg" align="center" alt="Canales de atención" width="300"  /> </p>
 
 <b>Atenciones</b>
 
