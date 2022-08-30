@@ -191,16 +191,23 @@ alt="Función Pública"></li><br>
 <p>La distribución de las interacciones por tipo de canal de atención, pone como uno de los principales a los cursos proporcionados por la entidad donde se registraron 411.436 interacciones.</p>
 
 <p align="center"> <img src="imaganes/2022-08-30_Canales.jpg" align="center" alt="Canales de atención" width="500"/> </p>
+
+<p>  </p>
 <p align="center"> <img src="imaganes/2022-08-30_Mapa.jpg" align="center" alt="Canales de atención" width="500" /> </p>
+<p>  </p>
 <p align="center"> <img src="imaganes/2022-08-30_Inclusion.jpg" align="center" alt="Canales de atención" width="500"/> </p>
+<p>  </p>
 <p align="center"> <img src="imaganes/2022-08-30_Grupos_valor.jpg" align="center" alt="Canales de atención" width="500"  /> </p>
 
 <b>Atenciones</b>
 
+<p>  </p>
 <p align="center"> <img src="imaganes/2022-08-30_Temas_canales.jpg" align="center" alt="Canales de atención"  /> </p>
+<p>  </p>
 <p align="center"> <img src="imaganes/2022-08-30_Temas_canales_2.jpg" align="center" alt="Canales de atención"  /> </p>
 
 <b>Entidades</b>
+<p>  </p>
 <p align="center"> <img src="imaganes/2022-08-30_Entidades.jpg" align="center" alt="Canales de atención" /> </p>
    
 <h2>Conclusiones</h2>
