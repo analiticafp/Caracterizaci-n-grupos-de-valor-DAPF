@@ -188,27 +188,25 @@ alt="Función Pública"></li><br>
 
 <b>Generales</b>
 
-<p>La distribución de las interacciones por tipo de canal de atención, pone como uno de los principales a los cursos proporcionados por la entidad donde se registraron 411.436 interacciones.</p>
+<p> </p>
 
 <p align="center"> <img src="imaganes/2022-08-30_Canales.jpg" align="center" alt="Canales de atención" width="500"/> </p>
-
-<p>  </p>
 <p align="center"> <img src="imaganes/2022-08-30_Mapa.jpg" align="center" alt="Canales de atención" width="500" /> </p>
-<p>  </p>
 <p align="center"> <img src="imaganes/2022-08-30_Inclusion.jpg" align="center" alt="Canales de atención" width="500"/> </p>
-<p>  </p>
 <p align="center"> <img src="imaganes/2022-08-30_Grupos_valor.jpg" align="center" alt="Canales de atención" width="500"  /> </p>
 
 <b>Atenciones</b>
 
-<p>  </p>
 <p align="center"> <img src="imaganes/2022-08-30_Temas_canales.jpg" align="center" alt="Canales de atención"  /> </p>
-<p>  </p>
 <p align="center"> <img src="imaganes/2022-08-30_Temas_canales_2.jpg" align="center" alt="Canales de atención"  /> </p>
 
 <b>Entidades</b>
-<p>  </p>
+<p> Se muestra el top de los sectores que más servicios han requerido de la entidad y se evidencia que en mayor representación estan el sector hacienda y trabajo, seguido del interior y justicia.</p><br>
+
 <p align="center"> <img src="imaganes/2022-08-30_Entidades.jpg" align="center" alt="Canales de atención" /> </p>
+
+<p> En cuanto a territorio se evidencia que la mayor atención se presenta en las alcadías que representan el 75% de las atenciones seguidos de las gobernaciones en un 14%.</p><br>
+
    
 <h2>Conclusiones</h2>
 <p> Una vez analizadas las bases de datos de los reportes generados por los canales de atención, durante el 2021 y de enero a julio de 2022, se puede concluir que:</p><br> 
