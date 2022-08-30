@@ -1,5 +1,5 @@
 <div class="row">
-  <div class="column"><img src="https://github.com/analiticafp/Caracterizacion gripos de valor/blob/2154b2dc3f0b3c539b43a51c9fb71b9422a16f78/imagenes/layout_set_logo.png" align="left" alt="Función Pública"></div>
+  <div class="column"><img src="https://github.com/analiticafp/Caracterizaci-n-grupos-de-valor-DAPF/blob/8df078b958299e29ebe2835f22e23ca835848781/imaganes/2022-08-30_Logo_fp.jpg" align="left" alt="Función Pública"></div>
   <div class="column" align="center"><div><b>Documentación proyecto analítica V.1</b><br>Ultima actualización: Agosto de 2022</div>
 </div>
 
