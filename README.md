@@ -198,11 +198,11 @@ alt="Función Pública"></li><br>
 
 <p>Las interacciones se concentran en la zona centro y occidente acogiendo las principales ciudades, donde Bogotá se registra como el departamento con mas interacciones.</li><br>
 
-<p align="center"> <img src="imaganes/2022-08-30_Inclusion.jpg" align="center" alt="Canales de atención" width="500"/> </p>
-
 <p>Para desarrollar herramientas y estrategias para la mejora y/o disposición de productos y servicios es necesario expandir y recolectar más información sobre las personas con discapacidad además del tipo de grupo étnico, con el fin de recolectar información útil para una toma de decisiones.</li><br>
 
 <p>Se registra entonces la distribución que se muestra en la siguiente tabla.</li><br>
+
+<p align="center"> <img src="imaganes/2022-08-30_Inclusion.jpg" align="center" alt="Canales de atención" width="500"/> </p>
 
 <p align="center"> <img src="imaganes/2022-08-30_Grupos_valor.jpg" align="center" alt="Canales de atención" width="500"  /> </p>
 
