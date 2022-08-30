@@ -188,10 +188,18 @@ alt="Función Pública"></li><br>
 
 <b>Generales</b>
 
+<p align="center"> <img src="imaganes/2022-08-30_Canales.jpg" align="center" alt="Canales de atención" width="300" height="300" /> </p>
+<p align="center"> <img src="imaganes/2022-08-30_Mapa.jpg" align="center" alt="Canales de atención" width="300" height="300" /> </p>
+<p align="center"> <img src="imaganes/2022-08-30_Inclusion.jpg" align="center" alt="Canales de atención" width="300" height="300" /> </p>
+<p align="center"> <img src="imaganes/2022-08-30_Grupos_valor.jpg" align="center" alt="Canales de atención" width="300" height="300" /> </p>
+
 <b>Atenciones</b>
 
-<b>Entidades</b>
+<p align="center"> <img src="imaganes/2022-08-30_Temas_canales.jpg" align="center" alt="Canales de atención" width="300" height="300" /> </p>
+<p align="center"> <img src="imaganes/2022-08-30_Temas_canales_2.jpg" align="center" alt="Canales de atención" width="300" height="300" /> </p>
 
+<b>Entidades</b>
+<p align="center"> <img src="imaganes/2022-08-30_Entidades.jpg" align="center" alt="Canales de atención" width="300" height="300" /> </p>
    
 <h2>Conclusiones</h2>
 <p> Una vez analizadas las bases de datos de los reportes generados por los canales de atención, durante el 2021 y de enero a julio de 2022, se puede concluir que:</p><br> 
