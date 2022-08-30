@@ -191,14 +191,32 @@ alt="Función Pública"></li><br>
 <p> </p>
 
 <p align="center"> <img src="imaganes/2022-08-30_Canales.jpg" align="center" alt="Canales de atención" width="500"/> </p>
+
+<p>La distribución de las interacciones por tipo de canal de atención pone como uno de los principales a los cursos proporcionados por la entidad donde se registraron 411.436 interacciones.</li><br>
+
 <p align="center"> <img src="imaganes/2022-08-30_Mapa.jpg" align="center" alt="Canales de atención" width="500" /> </p>
+
+<p>Las interacciones se concentran en la zona centro y occidente acogiendo las principales ciudades, donde Bogotá se registra como el departamento con mas interacciones.</li><br>
+
 <p align="center"> <img src="imaganes/2022-08-30_Inclusion.jpg" align="center" alt="Canales de atención" width="500"/> </p>
+
+<p>Para desarrollar herramientas y estrategias para la mejora y/o disposición de productos y servicios es necesario expandir y recolectar más información sobre las personas con discapacidad además del tipo de grupo étnico, con el fin de recolectar información útil para una toma de decisiones.</li><br>
+
+<p>Se registra entonces la distribución que se muestra en la siguiente tabla.</li><br>
+
 <p align="center"> <img src="imaganes/2022-08-30_Grupos_valor.jpg" align="center" alt="Canales de atención" width="500"  /> </p>
+
+<p> De acuerdo con la distribución de grupo de valor se evidencia que la mayor participación la tienen los servidores públicos en un 75%, seguido de particulares u otras entidades en un 23%.</p><br>
 
 <b>Atenciones</b>
 
 <p align="center"> <img src="imaganes/2022-08-30_Temas_canales.jpg" align="center" alt="Canales de atención"  /> </p>
+
+<p> En cuanto a las atenciones se evidencia que para los canales escrito, chat, presencial y telefonico la mayor participación es en temas de sigep.</p><br>
+
 <p align="center"> <img src="imaganes/2022-08-30_Temas_canales_2.jpg" align="center" alt="Canales de atención"  /> </p>
+
+<p> En lo que se referiere a los cursos EVA y CRM acción integral estos tienen un comportamiento diferente debido a la especifidad de estos canales donde en el caso de cursos eva se evidencia que el más demandado es el curso de integridad, seguido de MIPG, mientras que para el canal de CRM la principal consulta es la relacionada con el rediseño institucional seguida de MIPG.</p><br>
 
 <b>Entidades</b>
 <p> Se muestra el top de los sectores que más servicios han requerido de la entidad y se evidencia que en mayor representación estan el sector hacienda y trabajo, seguido del interior y justicia.</p><br>
