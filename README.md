@@ -233,9 +233,7 @@ alt="Función Pública"></li><br>
 <li type="circle">Potencializar el CRM como herramienta para consolidar y analizar todas las interacciones con los grupos de valor y que permita contar una trazabilidad de las atenciones históricas.</li><br>
 
 <li type="circle">Crear reportes que permitan hacer seguimiento y monitoreo a todas la interacciones, con el fin de identificar los grupos de valor y mejorar nuestra oferta institucional enfocada a la satisfacción de necesidades de dichos grupos.</li><br>
+
+<li type="circle">Incluir la DIVIPOLA del DANE en los canales de atención que facilite la georreferenciación de los usuarios.</li><br>
+
      
-<h2>Bibliografía</h2>  
-<ul>
-<li type="circle"> </li>
-<li type="circle"> </li>
-</ul>  
